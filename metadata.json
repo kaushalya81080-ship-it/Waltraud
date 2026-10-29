@@ -1,0 +1,6 @@
+{
+  "name": "GrammY Telegram Bot Runner & Activity Dashboard",
+  "description": "Standalone interactive Telegram Bot Runner & testing dashboard powered by grammY with inline keyboards, live streaming console, referral system, rewards, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
